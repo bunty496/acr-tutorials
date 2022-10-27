@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'kranthinodeapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_9A7482CA592640F8813B81F4B0158BA4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2E797FEACDF648D5B91A232DBC5B645D }}
           package: .
